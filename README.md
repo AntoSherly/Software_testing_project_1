@@ -25,7 +25,7 @@ This repository showcases my manual testing skills using [AutomationExercise.com
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - Google Sheets (Test Cases & Bug Reports)
 - JIRA (for manual bug tracking structure)
 - Snipping Tool (Screenshots – optional)
