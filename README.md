@@ -1,10 +1,10 @@
-# 🧪 Manual Testing Project – AutomationExercise.com
+#  Manual Testing Project – AutomationExercise.com
 
 This repository showcases my manual testing skills using [AutomationExercise.com](https://automationexercise.com), a public demo e-commerce website. It includes key QA documentation, test case design, bug reports, and more.
 
 ---
 
-## 📄 Included Documents
+##  Included Documents
 
 | Document                      | Description                                       |
 |-------------------------------|---------------------------------------------------|
@@ -16,7 +16,7 @@ This repository showcases my manual testing skills using [AutomationExercise.com
 
 ---
 
-## 🔍 Key Functional Areas Tested
+##  Key Functional Areas Tested
 - User Signup & Login
 - Product Search & Navigation
 - Add to Cart
@@ -25,7 +25,7 @@ This repository showcases my manual testing skills using [AutomationExercise.com
 
 ---
 
-## 🛠️ Tools Used
+## 🛠 Tools Used
 - Google Sheets (Test Cases & Bug Reports)
 - JIRA (for manual bug tracking structure)
 - Snipping Tool (Screenshots – optional)
@@ -33,7 +33,7 @@ This repository showcases my manual testing skills using [AutomationExercise.com
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 To demonstrate my end-to-end understanding of **manual testing**, including:
 - Test planning and strategy
@@ -43,7 +43,7 @@ To demonstrate my end-to-end understanding of **manual testing**, including:
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 **Anto Sherly A**  
 Email: antosherly.25cs@licet.ac.in  
